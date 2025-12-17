@@ -1,13 +1,15 @@
 <!--
-PROFILE DASHBOARD
-Tip: pokud chceš, aby se do streaku/stats promítly i private věci, zapni na profilu "Private contributions".
+John Formanek — GitHub Telemetry Dashboard
+Repository must be named: john-formanek-code/john-formanek-code
 -->
 
-# John — GitHub activity dashboard
+# John Formanek — Code & Commitment
 
-Nejrychlejší způsob, jak pochopit, co dělám: koukni na grafy níž. Když makám, je to vidět. ⚙️
+When I build, you can see it. When I disappear, I’m probably plotting something bigger. ⚙️
 
-## 📈 Commit pulse
+---
+
+## ⚡ Commit Pulse
 
 <p align="left">
   <a href="https://github.com/john-formanek-code">
@@ -24,15 +26,70 @@ Nejrychlejší způsob, jak pochopit, co dělám: koukni na grafy níž. Když m
   </a>
 </p>
 
-## 🐍 Contribution snake (volitelné, ale je to vizuálně návykové)
+---
 
-> Funguje až po nastavení workflow, které ti vygeneruje větev `output` (viz mini-setup níž).
+## 🧱 Contributions Grid
+
+> That “259 contributions in the last year” energy — in full view.
+
+<p align="left">
+  <img width="100%" alt="GitHub Contributions Chart" src="https://ghchart.rshah.org/john-formanek-code" />
+</p>
+
+---
+
+## 🧠 Deep Stats
+
+<p align="left">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=john-formanek-code&theme=github" />
+</p>
+
+<p align="left">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=john-formanek-code&theme=github" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=john-formanek-code&theme=github" />
+</p>
+
+<p align="left">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=john-formanek-code&theme=github" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=john-formanek-code&theme=github&utcOffset=1" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/john-formanek-code">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-formanek-code&layout=compact&langs_count=10" />
+  </a>
+  <a href="https://github.com/john-formanek-code">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=john-formanek-code&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true" />
+  </a>
+</p>
+
+---
+
+## 🏆 Trophies
+
+> Just for fun. Data is data — ego is optional.
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=john-formanek-code&column=6&margin-w=6&margin-h=6&no-frame=true" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> Animated contribution graph generated automatically (requires workflow setup).
 
 <p align="left">
   <img width="100%" alt="github contribution snake" src="https://github.com/john-formanek-code/john-formanek-code/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-## 🧾 Poslední aktivita (auto-update přes GitHub Actions)
+---
+
+## 🧾 Recent Activity
+
+> Updated automatically using a GitHub Action.
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -40,5 +97,6 @@ Nejrychlejší způsob, jak pochopit, co dělám: koukni na grafy níž. Když m
 ---
 
 ### 🔗 Links
-- GitHub: https://github.com/john-formanek-code
-- (sem si dej web / X / LinkedIn / cokoliv)
+- GitHub: [john-formanek-code](https://github.com/john-formanek-code)
+- Website: (add your link here)
+- X / LinkedIn / Contact: (optional)
