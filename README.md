@@ -63,29 +63,6 @@ When I build, you can see it. When I disappear, I’m probably plotting somethin
   </a>
 </p>
 
----
-
-## 🏆 Trophies
-
-> Just for fun. Data is data — ego is optional.
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=john-formanek-code&column=6&margin-w=6&margin-h=6&no-frame=true" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-> Animated contribution graph generated automatically (requires workflow setup).
-
-<p align="left">
-  <img width="100%" alt="github contribution snake" src="https://github.com/john-formanek-code/john-formanek-code/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🧾 Recent Activity
 
