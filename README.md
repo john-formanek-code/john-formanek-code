@@ -54,15 +54,6 @@ When I build, you can see it. When I disappear, I’m probably plotting somethin
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=john-formanek-code&theme=github&utcOffset=1" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/john-formanek-code">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-formanek-code&layout=compact&langs_count=10" />
-  </a>
-  <a href="https://github.com/john-formanek-code">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=john-formanek-code&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true" />
-  </a>
-</p>
-
 
 ## 🧾 Recent Activity
 
