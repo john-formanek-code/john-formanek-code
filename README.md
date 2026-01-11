@@ -28,7 +28,7 @@ When I build, you can see it. When I disappear, I’m probably plotting somethin
 
 ---
 
-## 🧱 Contributions Grid
+## 🧱 Contributions Grid - fuck it - color imbalance
 
 > That “259 contributions in the last year” energy — in full view.
 
