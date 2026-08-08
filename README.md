@@ -5,7 +5,7 @@ Repository must be named: john-formanek-code/john-formanek-code
 
 # John Formanek — Code & Commitment
 
-When I build, you can see it. When I disappear, I’m probably plotting something bigger. ⚙️
+When I build, you can see it. When I disappear, I’m probably plotting something bigger.
 
 ---
 
