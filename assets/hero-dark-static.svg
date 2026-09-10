@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="478" viewBox="0 0 1200 478" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">John Formanek — Code, intelligence, markets.</title>
+  <desc id="desc">An ASCII JOHN wordmark and a rotating, shaded ASCII torus. Stay curious. Build deliberately. Static reduced-motion variants are included with this profile.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#1d3036" /></pattern>
+    <radialGradient id="glow"><stop stop-color="#244f43" stop-opacity=".6" /><stop offset="1" stop-color="#0d1117" stop-opacity="0" /></radialGradient>
+    <linearGradient id="ascii-ink" x1="40" y1="10" x2="295" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#bbffe5" /><stop offset=".5" stop-color="#75dabc" /><stop offset="1" stop-color="#528eae" /></linearGradient>
+    <linearGradient id="shine"><stop stop-color="#a0f0ce" stop-opacity="0" /><stop offset=".5" stop-color="#a0f0ce" /><stop offset="1" stop-color="#a0f0ce" stop-opacity="0" /></linearGradient>
+    <clipPath id="outer"><rect x="1" y="1" width="1198" height="476" rx="20" /></clipPath>
+  </defs>
+  <style>
+      text { font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace; font-variant-ligatures:none; }
+      .frame { animation:ascii-frame 6.4s step-end infinite; }
+      @keyframes ascii-frame { 0% {opacity:1} 1.562500%,100% {opacity:0} }
+      .cursor { animation:cursor 1.2s step-end infinite; }
+      @keyframes cursor { 0%,52% {opacity:1} 53%,100% {opacity:0} }
+      .sweep { animation:sweep 9s ease-in-out infinite; }
+      @keyframes sweep { 0%,22% {transform:translateX(-700px);opacity:0} 28% {opacity:.34} 66% {transform:translateX(750px);opacity:.34} 72%,100% {transform:translateX(750px);opacity:0} }
+      @media (prefers-reduced-motion:reduce) {
+        .frame,.cursor,.sweep {animation:none!important}
+        .frame {opacity:0} .frame-0,.cursor {opacity:1} .sweep {opacity:0}
+      }
+    </style>
+  <g clip-path="url(#outer)">
+    <rect width="1200" height="478" fill="#0d1117" />
+    <rect x="0" y="59" width="1200" height="419" fill="url(#dots)" />
+    <ellipse cx="959" cy="259" rx="260" ry="215" fill="url(#glow)" />
+    <rect x="0" y="0" width="1200" height="59" fill="#101820" />
+    <path d="M0 59.5H1200" stroke="#283740" />
+    <circle cx="29" cy="30" r="4" fill="#56717b" /><circle cx="46" cy="30" r="4" fill="#93a5b2" /><circle cx="63" cy="30" r="4" fill="#64dcb1" />
+    <text x="88" y="35" font-size="13" fill="#93a5b2">~/john-formanek-code</text>
+    <text x="1173" y="35" font-size="12" fill="#56717b" text-anchor="end">PROFILE / 001</text>
+    <text x="49" y="116" font-size="13" fill="#93a5b2" letter-spacing="1.8">CODE / INTELLIGENCE / MARKETS</text>
+    <g aria-hidden="true"><text x="49" y="160" font-size="22.5" fill="#a0f0ce" xml:space="preserve" textLength="499.5" lengthAdjust="spacingAndGlyphs">     ##    #####    ##   ##   ##   ##</text>
+<text x="49" y="182.8" font-size="22.5" fill="#a0f0ce" xml:space="preserve" textLength="499.5" lengthAdjust="spacingAndGlyphs">     ##   ##   ##   ##   ##   ###  ##</text>
+<text x="49" y="205.6" font-size="22.5" fill="#a0f0ce" xml:space="preserve" textLength="499.5" lengthAdjust="spacingAndGlyphs">     ##   ##   ##   ##   ##   #### ##</text>
+<text x="49" y="228.4" font-size="22.5" fill="#a0f0ce" xml:space="preserve" textLength="499.5" lengthAdjust="spacingAndGlyphs">     ##   ##   ##   #######   ## ####</text>
+<text x="49" y="251.2" font-size="22.5" fill="#a0f0ce" xml:space="preserve" textLength="499.5" lengthAdjust="spacingAndGlyphs">##   ##   ##   ##   ##   ##   ##  ###</text>
+<text x="49" y="274" font-size="22.5" fill="#a0f0ce" xml:space="preserve" textLength="499.5" lengthAdjust="spacingAndGlyphs">##   ##   ##   ##   ##   ##   ##   ##</text>
+<text x="49" y="296.8" font-size="22.5" fill="#a0f0ce" xml:space="preserve" textLength="499.5" lengthAdjust="spacingAndGlyphs"> #####     #####    ##   ##   ##   ##</text></g>
+    <text x="50" y="348" font-size="34" fill="#e6edf3" letter-spacing="8" font-weight="600">FORMANEK</text>
+  
+<text x="50" y="380" font-size="15" fill="#93a5b2">Curiosity in. Code out.</text>
+<path d="M697 103V380" stroke="#283740" stroke-dasharray="2 7" />
+<text x="781" y="104" font-size="11" fill="#56717b" letter-spacing="1.1">[ ASCII / MOTION STUDY ]</text>
+<g stroke="#1d3036" stroke-width="1"><circle cx="959" cy="259" r="149" /><circle cx="959" cy="259" r="111" stroke-dasharray="2 9" /><path d="M790 259h12m314 0h12M959 90v12m0 314v12" /></g>
+<g transform="translate(771.8 99) scale(1)" aria-hidden="true" fill="url(#ascii-ink)" font-size="12" xml:space="preserve">
+<g class="frame frame-0" opacity="1" style="animation-delay:0.000s">
+<text x="0" y="46.0" xml:space="preserve" style="white-space:pre">                @@@@@@@@%%%%%%%%%###                </text>
+<text x="0" y="57.5" xml:space="preserve" style="white-space:pre">            %@@@@@@%%%%%%%%%%#########*+            </text>
+<text x="0" y="69.0" xml:space="preserve" style="white-space:pre">          @@@@%%%%%%#########*####********          </text>
+<text x="0" y="80.5" xml:space="preserve" style="white-space:pre">        @@@%%%%%#########*****************++        </text>
+<text x="0" y="92.0" xml:space="preserve" style="white-space:pre">      %%%%#%#####*******+++++++++++++*++++++==      </text>
+<text x="0" y="103.5" xml:space="preserve" style="white-space:pre">     %%######***+++++===============+++++++===;     </text>
+<text x="0" y="115.0" xml:space="preserve" style="white-space:pre">    ##%##****++====;;::::::::::;;;;===========;:    </text>
+<text x="0" y="126.5" xml:space="preserve" style="white-space:pre">    ###***++==;;:::,,,,,,,,,,,,,,:::;;;;;===;;;;    </text>
+<text x="0" y="138.0" xml:space="preserve" style="white-space:pre">    #**+++==;::,,,,,,,,,,,,,,,,,,,,,:::;;;;;;;;:    </text>
+<text x="0" y="149.5" xml:space="preserve" style="white-space:pre">    **++=;;::,,,,,,,            ,,,,,::::;;;;;::    </text>
+<text x="0" y="161.0" xml:space="preserve" style="white-space:pre">    *++=;;::,,,,,,,              +,,,::::::::::,    </text>
+<text x="0" y="172.5" xml:space="preserve" style="white-space:pre">    ++==;::,,,,,,,,,            **;::::::::::::,    </text>
+<text x="0" y="184.0" xml:space="preserve" style="white-space:pre">     ==;;::,,,,,,,,:;=++*++#%%%%##+==;;;;;:::,,     </text>
+<text x="0" y="195.5" xml:space="preserve" style="white-space:pre">      =;;:::,,,,,,:;=+*##%@@@@@%%#*++==;;;::,,      </text>
+<text x="0" y="207.0" xml:space="preserve" style="white-space:pre">       ;;;:::::::;;=++*##%%@@%%%##**+==;;::,,       </text>
+<text x="0" y="218.5" xml:space="preserve" style="white-space:pre">         ::::::;;;==++**####%#####*++==;:,,         </text>
+<text x="0" y="230.0" xml:space="preserve" style="white-space:pre">           :::;;;;===++**#####***++=;;,,,           </text>
+<text x="0" y="241.5" xml:space="preserve" style="white-space:pre">              ,:::;;;====+++++===;:,,,              </text>
+<text x="0" y="253.0" xml:space="preserve" style="white-space:pre">                    ,,,,,,,,,,,,                    </text>
+</g>
+</g>
+<text x="959" y="394" font-size="12" fill="#56717b" text-anchor="middle" letter-spacing="3.4">. : ; = + * # % @</text>
+<rect x="0" y="414" width="1200" height="64" fill="#101820" />
+<path d="M0 414.5H1200" stroke="#283740" />
+<rect class="sweep" x="0" y="414" width="420" height="1.2" fill="url(#shine)" opacity="0" />
+<text x="30" y="453" font-size="15" fill="#64dcb1">~/john $</text>
+<text x="128" y="453" font-size="15" fill="#e6edf3">stay curious. build deliberately.</text>
+<rect class="cursor" x="432" y="439" width="8" height="17" rx="1" fill="#a0f0ce" />
+<text x="1170" y="453" font-size="12" fill="#56717b" text-anchor="end" letter-spacing=".8">LESS NOISE. MORE SIGNAL.</text>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="476.5" rx="20" stroke="#283740" stroke-width="1.5" />
+<style>.frame,.cursor,.sweep,.point{animation:none!important}.frame{opacity:0!important}.frame-0,.cursor{opacity:1!important}.sweep{opacity:0!important}</style></svg>

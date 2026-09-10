@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="98" viewBox="0 0 1200 98" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Think. Build. Learn. Repeat.</title>
+<desc id="desc">A quiet terminal footer: the next commit is the point.</desc>
+<style>text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}.point{animation:travel 8s ease-in-out infinite}@keyframes travel{0%,10%{transform:translateX(0)}30%,40%{transform:translateX(108px)}60%,70%{transform:translateX(216px)}90%,100%{transform:translateX(324px)}}@media(prefers-reduced-motion:reduce){.point{animation:none}}</style>
+<rect x=".75" y=".75" width="1198.5" height="96.5" rx="14" fill="#f7faf9" stroke="#cadbd3" stroke-width="1.5"/>
+<text x="30" y="36" font-size="13" fill="#17805d" >$ ./keep-going</text>
+<text x="30" y="67" font-size="19" fill="#182d28" >The next commit is the point.</text>
+<path d="M784 33H1108" stroke="#cadbd3" stroke-width="2"/>
+<g fill="#f7faf9" stroke="#7a9489"><circle cx="784" cy="33" r="4"/><circle cx="892" cy="33" r="4"/><circle cx="1000" cy="33" r="4"/><circle cx="1108" cy="33" r="4"/></g>
+<circle class="point" cx="784" cy="33" r="4" fill="#147756"/>
+<text x="784" y="68" font-size="13" fill="#536c62" text-anchor="middle">think</text>
+<text x="892" y="68" font-size="13" fill="#536c62" text-anchor="middle">build</text>
+<text x="1000" y="68" font-size="13" fill="#536c62" text-anchor="middle">learn</text>
+<text x="1108" y="68" font-size="13" fill="#536c62" text-anchor="middle">repeat</text>
+</svg>

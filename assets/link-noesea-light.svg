@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="104" viewBox="0 0 280 104" fill="none" role="img" aria-labelledby="title">
+<title id="title">Noesea</title>
+<g transform="translate(0 4)">
+<rect x=".75" y=".75" width="278.5" height="94.5" rx="12" fill="#edf4f1" stroke="#cadbd3" stroke-width="1.5"/>
+<text x="20" y="29" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" fill="#7a9489" letter-spacing="1.5">02 / ELSEWHERE</text>
+<text x="20" y="67" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600" fill="#182d28">Noesea</text>
+<path d="M244 63l12-12m-12 0h12v12" stroke="#17805d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>

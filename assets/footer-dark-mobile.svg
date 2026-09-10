@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="170" viewBox="0 0 700 170" fill="none" role="img" aria-labelledby="title">
+<title id="title">Think. Build. Learn. Repeat. The next commit is the point.</title>
+<rect x=".75" y=".75" width="698.5" height="168.5" rx="14" fill="#0d1117" stroke="#283740" stroke-width="1.5"/>
+<text x="30" y="38" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="17" fill="#64dcb1">$ ./keep-going</text>
+<text x="30" y="77" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="27" fill="#e6edf3">The next commit is the point.</text>
+<path d="M30 102H670" stroke="#283740"/>
+<text x="350" y="142" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="22" fill="#93a5b2">think -&gt; build -&gt; learn -&gt; repeat</text>
+</svg>
