@@ -16,10 +16,6 @@
       @keyframes cursor { 0%,52% {opacity:1} 53%,100% {opacity:0} }
       .sweep { animation:sweep 9s ease-in-out infinite; }
       @keyframes sweep { 0%,22% {transform:translateX(-700px);opacity:0} 28% {opacity:.34} 66% {transform:translateX(750px);opacity:.34} 72%,100% {transform:translateX(750px);opacity:0} }
-      @media (prefers-reduced-motion:reduce) {
-        .frame,.cursor,.sweep {animation:none!important}
-        .frame {opacity:0} .frame-0,.cursor {opacity:1} .sweep {opacity:0}
-      }
     </style>
   <g clip-path="url(#outer)">
     <rect width="1200" height="478" fill="#f7faf9"/>
